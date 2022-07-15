@@ -23,7 +23,7 @@
     Modulos                 .mjs or .module.js or similar. Pero para el nombre en si del modulo?
     cb                      Callback
 
-    Definir si aplicar este tipo de nomenglatura solo a nivel global, ya q por ejemplo dentro de una función queda más proliojo usar :
+    Definir si aplicar este tipo de nomenclatura solo a nivel global, ya q por ejemplo dentro de una función queda más prolija usar :
         nombreVariable
         NombreObjeto
     Pero para funciones y clases queda bien el f_ y c_
